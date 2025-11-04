@@ -30,7 +30,7 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 
 &nbsp;  python main.py
 
-3\. Open http://127.0.0.1:5000 (the link to the application) in your browser.
+3\. Open http://127.0.0.1:5000 ( or the link to the application obtained in the terminal) in your browser.
 
 
 
