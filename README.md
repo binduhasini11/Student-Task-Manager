@@ -36,8 +36,7 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 
 \## Documentation
 
-Full project report: 
-📄 [Download Full Project Report (pyproject_StudentTaskManager.docx)](pyproject_StudentTaskManager.docx)
+📄 Full project report: (pyproject_StudentTaskManager.pdf)
 
 
 👩‍💻 Developed By:
@@ -50,8 +49,6 @@ ELSA ROSE ANTONY(25BCE2728)
 HAVISHA SURESH(25BCE2708)
 
 BACSE1010 – Problem Solving Using Python
-
 School of Computer Science and Engineering
-
 Vellore Institute of Technology, Vellore
 
