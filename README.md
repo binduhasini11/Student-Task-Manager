@@ -36,8 +36,8 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 
 \## Documentation
 
-Full project report:  pyproject\_StudentTaskManager.docx
-
+Full project report: 
+📄 [Download Full Project Report (pyproject_StudentTaskManager.docx)](pyproject_StudentTaskManager.docx)
 
 
 👩‍💻 Developed By
