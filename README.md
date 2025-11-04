@@ -22,13 +22,13 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 
 1\. Install dependencies:
 
-&nbsp;  in command prompt:
+   in command prompt:
 
-&nbsp;  pip install -r requirements.txt
+   pip install -r requirements.txt
 
 2.Start the app:
 
-&nbsp;  python main.py
+   python main.py
 
 3\. Open http://127.0.0.1:5000 ( or the link to the application obtained in the terminal) in your browser.
 
@@ -40,8 +40,7 @@ Full project report:
 📄 [Download Full Project Report (pyproject_StudentTaskManager.docx)](pyproject_StudentTaskManager.docx)
 
 
-👩‍💻 Developed By
-
+👩‍💻 Developed By:
 
 
 B Bindu Hasini(25BCE2748)
@@ -50,7 +49,9 @@ ELSA ROSE ANTONY(25BCE2728)
 
 HAVISHA SURESH(25BCE2708)
 
-Course:BACSE1010 - Problem Solving Using Python
+BACSE1010 – Problem Solving Using Python
 
-Vellore Institute of Technology
+School of Computer Science and Engineering
+
+Vellore Institute of Technology, Vellore
 
