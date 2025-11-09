@@ -42,7 +42,7 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 👩‍💻 Developed By:
 
 
-B Bindu Hasini(25BCE2748)
+B BINDU HASINI(25BCE2748)
 
 ELSA ROSE ANTONY(25BCE2728)
 
