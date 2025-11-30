@@ -32,7 +32,7 @@ A web-based task management system built using \*\*Flask (Python)\*\* and \*\*My
 
 3\. Open http://127.0.0.1:5000 ( or the link to the application obtained in the terminal) in your browser.
 
-
+GITHUB PAGE: https://binduhasini11.github.io/Student-Task-Manager/
 
 \## Documentation
 
